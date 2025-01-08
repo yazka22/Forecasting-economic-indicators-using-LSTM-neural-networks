@@ -1,2 +1,3 @@
 # Forecasting-economic-indicators-using-LSTM-neural-networks
-using LSTM neural networks to forecast economic indicators, in this case, Gross Domestic Product (GDP)
+
+In practice, the project I created – aims to develop a predictive model using LSTM neural networks to forecast economic indicators, in this case, Gross Domestic Product (GDP). This model aims to demonstrate how historical data can be used to anticipate economic trends, thus providing a solid basis for economic and financial decision-making. In the current context, the predictability of economic indicators plays a crucial role in economic planning and strategy at the macro and micro levels. The use of machine learning technologies, such as LSTM, allows for the analysis and interpretation of the dynamic complexities of economic data in real time.
